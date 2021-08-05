@@ -2,5 +2,6 @@
 
 int main()
 {
+	pringf("Hello, World!");
 	return 0;
 }
